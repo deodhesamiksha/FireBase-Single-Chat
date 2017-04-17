@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "850201259570",
+    "firebase_url": "https://chat-ae1c3.firebaseio.com",
+    "project_id": "chat-ae1c3",
+    "storage_bucket": "chat-ae1c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850201259570:android:74007a35c9cdcd25",
+        "android_client_info": {
+          "package_name": "xyz.himanshu.singlechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850201259570-pjmc9slsk72o2b5av5qm0ouhle3kn210.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa9K8qjBybfWO1oMru91hgPpSGR8TUyq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
