@@ -40,6 +40,7 @@ public class LoginActivity extends AppCompatActivity {
     private void init() {
         // set the toolbar
         setSupportActionBar(mToolbar);
+        mToolbar.setTitle("Hey, Login yourself to use us");
 
         // set the login screen fragment
         FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();

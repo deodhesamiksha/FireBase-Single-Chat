@@ -19,6 +19,7 @@ import xyz.himanshu.singlechat.core.registration.RegisterPresenter;
 import xyz.himanshu.singlechat.core.users.add.AddUserContract;
 import xyz.himanshu.singlechat.core.users.add.AddUserPresenter;
 import xyz.himanshu.singlechat.ui.activities.UserListingActivity;
+
 import com.google.firebase.auth.FirebaseUser;
 
 /**
@@ -91,9 +92,13 @@ public class RegisterFragment extends Fragment implements View.OnClickListener, 
     private void onRegister(View view) {
         String emailId = mETxtEmail.getText().toString();
         String password = mETxtPassword.getText().toString();
+        if (emailId.length() > 0 && password.length() > 0) {
+            mRegisterPresenter.register(getActivity(), emailId, password);
+            mProgressDialog.show();
+        } else {
+            Toast.makeText(getActivity(), "Please add data..!", Toast.LENGTH_SHORT).show();
 
-        mRegisterPresenter.register(getActivity(), emailId, password);
-        mProgressDialog.show();
+        }
     }
 
     @Override

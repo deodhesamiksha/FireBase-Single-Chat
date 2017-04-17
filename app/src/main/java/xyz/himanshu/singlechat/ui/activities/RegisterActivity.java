@@ -34,6 +34,7 @@ public class RegisterActivity extends AppCompatActivity {
     private void init() {
         // set the toolbar
         setSupportActionBar(mToolbar);
+        mToolbar.setTitle("Register Yourself");
 
         // set the register screen fragment
         FragmentTransaction fragmentTransaction = getSupportFragmentManager().beginTransaction();
