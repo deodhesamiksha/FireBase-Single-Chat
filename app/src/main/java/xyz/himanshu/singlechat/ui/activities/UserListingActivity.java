@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.design.widget.FloatingActionButton;
 import android.support.design.widget.TabLayout;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AlertDialog;
@@ -11,11 +12,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.EditText;
 import android.widget.Toast;
+
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.database.FirebaseDatabase;
 
 import xyz.himanshu.singlechat.R;
 import xyz.himanshu.singlechat.core.logout.LogoutContract;
 import xyz.himanshu.singlechat.core.logout.LogoutPresenter;
+import xyz.himanshu.singlechat.models.ChatMessage;
 import xyz.himanshu.singlechat.ui.adapters.UserListingPagerAdapter;
 
 public class UserListingActivity extends AppCompatActivity implements LogoutContract.View {
@@ -23,6 +30,7 @@ public class UserListingActivity extends AppCompatActivity implements LogoutCont
     private TabLayout mTabLayoutUserListing;
     private ViewPager mViewPagerUserListing;
     private LogoutPresenter mLogoutPresenter;
+    private FloatingActionButton floatingActionButton;
 
     public static void startActivity(Context context) {
         Intent intent = new Intent(context, UserListingActivity.class);
@@ -45,8 +53,15 @@ public class UserListingActivity extends AppCompatActivity implements LogoutCont
 
     private void bindViews() {
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
+        floatingActionButton = (FloatingActionButton)findViewById(R.id.fab);
         mTabLayoutUserListing = (TabLayout) findViewById(R.id.tab_layout_user_listing);
         mViewPagerUserListing = (ViewPager) findViewById(R.id.view_pager_user_listing);
+        floatingActionButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+               startActivity(new Intent(UserListingActivity.this,GroupActivity.class));
+            }
+        });
     }
 
     private void init() {

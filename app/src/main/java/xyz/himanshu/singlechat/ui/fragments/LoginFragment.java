@@ -2,6 +2,7 @@ package xyz.himanshu.singlechat.ui.fragments;
 
 import android.app.ProgressDialog;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
@@ -18,15 +19,13 @@ import xyz.himanshu.singlechat.core.login.LoginPresenter;
 import xyz.himanshu.singlechat.ui.activities.RegisterActivity;
 import xyz.himanshu.singlechat.ui.activities.UserListingActivity;
 
-/**
- * Author: Kartik Sharma
- * Created on: 8/28/2016 , 10:36 AM
- * Project: FirebaseChat
- */
+import static android.content.Context.MODE_PRIVATE;
+
 
 public class LoginFragment extends Fragment implements View.OnClickListener, LoginContract.View {
     private LoginPresenter mLoginPresenter;
-
+    SharedPreferences pref;
+    SharedPreferences.Editor editor;
     private EditText mETxtEmail, mETxtPassword;
     private Button mBtnLogin, mBtnRegister;
 
@@ -62,7 +61,8 @@ public class LoginFragment extends Fragment implements View.OnClickListener, Log
 
     private void init() {
         mLoginPresenter = new LoginPresenter(this);
-
+        pref = getActivity().getSharedPreferences("MyPref", MODE_PRIVATE);
+        editor = pref.edit();
         mProgressDialog = new ProgressDialog(getActivity());
         mProgressDialog.setTitle(getString(R.string.loading));
         mProgressDialog.setMessage(getString(R.string.please_wait));
@@ -91,6 +91,8 @@ public class LoginFragment extends Fragment implements View.OnClickListener, Log
 
     private void onLogin(View view) {
         String emailId = mETxtEmail.getText().toString();
+        editor.putString("email", emailId);
+        editor.commit();
         String password = mETxtPassword.getText().toString();
 
         mLoginPresenter.login(getActivity(), emailId, password);
