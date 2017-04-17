@@ -22,7 +22,6 @@ public class UserListingActivity extends AppCompatActivity implements LogoutCont
     private Toolbar mToolbar;
     private TabLayout mTabLayoutUserListing;
     private ViewPager mViewPagerUserListing;
-
     private LogoutPresenter mLogoutPresenter;
 
     public static void startActivity(Context context) {
@@ -53,14 +52,11 @@ public class UserListingActivity extends AppCompatActivity implements LogoutCont
     private void init() {
         // set the toolbar
         setSupportActionBar(mToolbar);
-
         // set the view pager adapter
         UserListingPagerAdapter userListingPagerAdapter = new UserListingPagerAdapter(getSupportFragmentManager());
         mViewPagerUserListing.setAdapter(userListingPagerAdapter);
-
         // attach tab layout with view pager
         mTabLayoutUserListing.setupWithViewPager(mViewPagerUserListing);
-
         mLogoutPresenter = new LogoutPresenter(this);
     }
 
