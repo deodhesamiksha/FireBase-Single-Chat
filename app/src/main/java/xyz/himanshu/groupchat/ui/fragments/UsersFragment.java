@@ -124,7 +124,7 @@ public class UsersFragment extends Fragment implements GetUsersContract.View, It
                 mSwipeRefreshLayout.setRefreshing(false);
             }
         });
-        Toast.makeText(getActivity(), "Error: " + message, Toast.LENGTH_SHORT).show();
+//        Toast.makeText(getActivity(), "Error: " + message, Toast.LENGTH_SHORT).show();
     }
 
     @Override
