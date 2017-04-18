@@ -1,6 +1,0 @@
-COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
-FILE_PATH=/Users/himanshusingh/Documents/AndroidStudioProject/SingleChat/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar
-FILE_HASH=12f0ba6fc8df5c513affb84da0be8ed551723b55
-DX_VERSION=1.13
-JUMBO_MODE=true
-OPTIMIZE=true

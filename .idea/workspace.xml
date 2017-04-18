@@ -11,15 +11,308 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d346ec7a-44ed-407b-8234-48c7a26f1680" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-06-03-239.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-06-03-239.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-06-38-922.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-06-38-922.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-11-27-555.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-11-27-555.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-11-52-157.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-11-52-157.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-12-13-847.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-12-13-847.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-12-37-655.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-12-37-655.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-14-07-662.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-14-07-662.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-15-33-520.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-15-33-520.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-17-00-064.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-17-00-064.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-25-18-192.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-25-18-192.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-28-57-150.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-28-57-150.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-29-08-932.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-29-08-932.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-30-58-963.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-30-58-963.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-34-42-722.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-34-42-722.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-57-31-118.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-57-31-118.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-57-51-047.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-57-51-047.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-59-31-520.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-22-59-31-520.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-00-56-607.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-00-56-607.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-01-55-959.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-01-55-959.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-02-06-676.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-02-06-676.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-02-36-305.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-02-36-305.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-02-51-517.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-02-51-517.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-03-05-559.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-03-05-559.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-03-17-970.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-03-17-970.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-03-58-899.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-03-58-899.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-18-18-776.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-18-18-776.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-21-12-094.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-21-12-094.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-22-47-339.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-22-47-339.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-24-10-240.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-24-10-240.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-25-23-276.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-25-23-276.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-25-28-772.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-25-28-772.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-26-41-565.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-26-41-565.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-27-06-616.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-27-06-616.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-34-48-390.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-34-48-390.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-35-59-407.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-35-59-407.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-37-30-670.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-37-30-670.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-45-20-477.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-45-20-477.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-52-25-382.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-52-25-382.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-54-58-172.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-23-54-58-172.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-00-36-955.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-00-36-955.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-01-03-051.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-01-03-051.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-01-43-698.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-01-43-698.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-03-43-692.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-03-43-692.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-05-22-755.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-05-22-755.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-06-22-578.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-06-22-578.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-07-38-233.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-07-38-233.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-08-24-024.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-08-24-024.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-09-08-226.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-09-08-226.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-10-37-952.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-10-37-952.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-18-55-265.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-18-55-265.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-19-02-201.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-19-02-201.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-19-09-288.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-19-09-288.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-19-17-384.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-19-17-384.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-25-24-252.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-25-24-252.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-26-02-524.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-26-02-524.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-27-38-345.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-27-38-345.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-28-09-452.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-28-09-452.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-28-36-232.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-28-36-232.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-29-04-316.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-29-04-316.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-30-01-074.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-30-01-074.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-31-22-566.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-31-22-566.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-37-44-412.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-37-44-412.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-38-55-487.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-38-55-487.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-40-20-512.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-40-20-512.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-42-20-574.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-42-20-574.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-42-47-114.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-42-47-114.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-46-28-544.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-46-28-544.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-47-37-053.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-47-37-053.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-52-09-603.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-52-09-603.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-52-44-665.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-00-52-44-665.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-02-22-256.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-02-22-256.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-04-59-207.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-04-59-207.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-05-13-178.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-05-13-178.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-07-39-343.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-07-39-343.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-09-01-404.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-09-01-404.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-13-21-030.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-13-21-030.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-13-50-632.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-13-50-632.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-15-34-893.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-15-34-893.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-16-35-285.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-16-35-285.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-18-01-391.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-18-01-391.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-32-27-813.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-32-27-813.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-35-30-842.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-35-30-842.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-36-00-386.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-36-00-386.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-38-40-963.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-38-40-963.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-38-47-360.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-38-47-360.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-54-57-873.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-54-57-873.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-55-06-104.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-55-06-104.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-01-138.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-01-138.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-23-327.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-23-327.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-34-756.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-34-756.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-54-711.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-56-54-711.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-57-04-536.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-01-57-04-536.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-18-57-782.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-18-57-782.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-23-23-161.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-23-23-161.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-25-09-206.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-25-09-206.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-26-15-215.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-26-15-215.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-28-03-665.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-28-03-665.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-30-04-151.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-30-04-151.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-31-09-492.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-31-09-492.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-33-53-795.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-33-53-795.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-34-35-773.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-34-35-773.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-38-15-405.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-38-15-405.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-39-54-794.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-39-54-794.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-41-12-755.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-41-12-755.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-42-26-137.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-42-26-137.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-46-46-734.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-46-46-734.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-47-11-115.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-02-47-11-115.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-56-20-866.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-56-20-866.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-56-46-627.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-56-46-627.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-56-58-165.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-56-58-165.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-57-34-248.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-11-57-34-248.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-01-46-949.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-01-46-949.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-05-01-148.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-05-01-148.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-05-43-266.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-05-43-266.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-07-04-487.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-07-04-487.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-15-01-357.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-15-01-357.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-16-07-146.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-04-18-12-16-07-146.rawproto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/project-cache/47782ac1d9df044d78c05d5809be2f7ef94774f3/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/project-cache/47782ac1d9df044d78c05d5809be2f7ef94774f3/output" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/project-cache/fea526658846843156658f2e7145e44e32429d81/inputs" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/project-cache/fea526658846843156658f2e7145e44e32429d81/output" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/androidTest/java/xyz/himanshu/groupchat/ExampleInstrumentedTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/xyz/himanshu/singlechat/ExampleInstrumentedTest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/FirebaseChatMainApp.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/FirebaseChatMainApp.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatContract.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatContract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatInteractor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatPresenter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/login/LoginContract.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/login/LoginContract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/login/LoginInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/login/LoginInteractor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/login/LoginPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/login/LoginPresenter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/logout/LogoutContract.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/logout/LogoutContract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/logout/LogoutInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/logout/LogoutInteractor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/logout/LogoutPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/logout/LogoutPresenter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/registration/RegisterContract.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/registration/RegisterContract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/registration/RegisterInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/registration/RegisterInteractor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/registration/RegisterPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/registration/RegisterPresenter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/add/AddUserContract.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/add/AddUserContract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/add/AddUserInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/add/AddUserInteractor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/add/AddUserPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/add/AddUserPresenter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersContract.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersContract.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersInteractor.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersInteractor.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersPresenter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersPresenter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/events/PushNotificationEvent.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/events/PushNotificationEvent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/fcm/FcmNotificationBuilder.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/fcm/FcmNotificationBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/fcm/MyFirebaseInstanceIDService.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/fcm/MyFirebaseInstanceIDService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/fcm/MyFirebaseMessagingService.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/fcm/MyFirebaseMessagingService.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/models/Chat.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/models/Chat.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/models/ChatMessage.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/models/ChatMessage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/models/User.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/models/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/models/Users.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/models/Users.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/ChatActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/ChatActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/GroupActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/GroupActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/LoginActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/LoginActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/RegisterActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/RegisterActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/SplashActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/SplashActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/UserListingActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/UserListingActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/adapters/ChatRecyclerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/ChatRecyclerAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/adapters/UserListingPagerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/UserListingPagerAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/adapters/UserListingRecyclerAdapter.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/UserListingRecyclerAdapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/ChatFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/ChatFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/LoginFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/LoginFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/RegisterFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/RegisterFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/UsersFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/UsersFragment.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/Constants.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/Constants.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/ItemClickSupport.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/ItemClickSupport.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/NetworkConnectionUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/NetworkConnectionUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/SharedPrefUtil.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/SharedPrefUtil.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/src/test/java/xyz/himanshu/groupchat/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/app/src/test/java/xyz/himanshu/singlechat/ExampleUnitTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/classAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/javaCompile.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/jvmClassSignatures.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.4.1/taskHistory/taskHistory.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/ChatFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/ChatFragment.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/UsersFragment.java" afterPath="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/UsersFragment.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/google-services.json" afterPath="$PROJECT_DIR$/app/google-services.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_user_listing.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_user_listing.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,40 +336,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="styles.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/styles.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ChatFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/ChatFragment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="172" column="4" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ChatPresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatPresenter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="86">
               <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding>
-                <element signature="e#1397#1398#0" expanded="true" />
+                <element signature="e#1399#1400#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ChatInteractor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatInteractor.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatInteractor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="73">
               <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
@@ -85,8 +358,21 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="756">
+              <caret line="55" column="48" lean-forward="false" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="UsersFragment.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/UsersFragment.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/UsersFragment.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="96">
               <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
@@ -96,57 +382,61 @@
         </entry>
       </file>
       <file leaf-file-name="GetUsersPresenter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersPresenter.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersPresenter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="110">
               <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
-                <element signature="e#1030#1031#0" expanded="true" />
+                <element signature="e#1032#1033#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GetUsersInteractor.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersInteractor.java">
+      <file leaf-file-name="GetUsersInteractor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersInteractor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="81">
-              <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+            <state relative-caret-position="141">
+              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Toast.java" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-25/android/widget/Toast.java">
+      <file leaf-file-name="UserListingRecyclerAdapter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/UserListingRecyclerAdapter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="73">
-              <caret line="259" column="0" lean-forward="false" selection-start-line="259" selection-start-column="0" selection-end-line="259" selection-end-column="0" />
+            <state relative-caret-position="41">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="menu_user_listing.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/menu/menu_user_listing.xml">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="45" lean-forward="false" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+            <state relative-caret-position="90">
+              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
               <folding />
             </state>
           </provider>
-          <provider editor-type-id="android-designer2">
+        </entry>
+      </file>
+      <file leaf-file-name="values.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app-release.apk" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/app-release.apk">
+          <provider selected="true" editor-type-id="apk-viewer">
             <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="colors.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding />
-            </state>
           </provider>
         </entry>
       </file>
@@ -161,23 +451,13 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>UserListingActivity.cl</find>
-      <find>UserLi</find>
-      <find>flag</find>
-      <find>mLogoutPresenter</find>
-      <find>this</find>
-      <find>start</find>
-      <find>context</find>
-      <find>Dat</find>
       <find>data</find>
       <find>onPushNotificationEvent</find>
       <find>PushNotificationEvent</find>
-      <find>c</find>
       <find>child</find>
       <find>CustomFontTextView</find>
       <find>xyz.himanshu.groupchat.Model.CustomFontTextView</find>
       <find>user</find>
-      <find>cli</find>
       <find>pref</find>
       <find>editt</find>
       <find>hello</find>
@@ -191,10 +471,26 @@
       <find>s</find>
       <find>succefully l</find>
       <find>succefully lo</find>
+      <find>c</find>
+      <find>cli</find>
+      <find>click</find>
+      <find>oclick</find>
+      <find>onclick</find>
+      <find>g</find>
+      <find>group</find>
+      <find>groupc</find>
+      <find>groupchar</find>
+      <find>groupchat</find>
     </findStrings>
     <replaceStrings>
       <replace>TextView</replace>
+      <replace>singlechat</replace>
     </replaceStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="KEY_STORE_PATH" value="$PROJECT_DIR$/../../StudioKey" />
+    <option name="KEY_ALIAS" value="key" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -2376,13 +2672,14 @@
         <option value="$PROJECT_DIR$/app/src/main/res/layout/message.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/GroupActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_group.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu_user_listing.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/ChatFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/UsersFragment.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml" />
       </list>
     </option>
   </component>
@@ -2614,34 +2911,6 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Firebase single" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="values" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Firebase single" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
@@ -2660,92 +2929,8 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menu" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Firebase single" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Firebase single" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groupchat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Firebase single" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groupchat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Firebase single" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="groupchat" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="chat" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -2772,6 +2957,11 @@
     <property name="SHOW_ALL_PROCESSES" value="false" />
     <property name="DEBUGGER_ID" value="Auto" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="ExportApk.ApkPath" value="$PROJECT_DIR$/app" />
+    <property name="ExportApk.Flavors" value="" />
+    <property name="ExportApk.BuildType" value="release" />
+    <property name="ExportApk.SignV1" value="true" />
+    <property name="ExportApk.SignV2" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
@@ -3105,12 +3295,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5498339" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5498339" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -3127,7 +3316,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32890365" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3147,13 +3336,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/UserListingActivity.java</url>
+          <url>file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/UserListingActivity.java</url>
           <line>80</line>
           <properties />
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/UserListingActivity.java</url>
+          <url>file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/UserListingActivity.java</url>
           <line>81</line>
           <properties />
           <option name="timeStamp" value="3" />
@@ -3164,36 +3353,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/GroupActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2835">
-          <caret line="216" column="1" lean-forward="false" selection-start-line="216" selection-start-column="1" selection-end-line="216" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#lastMessage#0;class#GroupActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_group.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/LoginFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1110">
-          <caret line="93" column="31" lean-forward="false" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/message.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -3205,7 +3364,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/adapters/UserListingPagerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/UserListingPagerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
@@ -3252,14 +3411,14 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/registration/RegisterContract.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/registration/RegisterContract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="24" column="90" lean-forward="false" selection-start-line="24" selection-start-column="90" selection-end-line="24" selection-end-column="90" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/adapters/ChatRecyclerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/ChatRecyclerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="69" column="40" lean-forward="false" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="40" />
@@ -3304,42 +3463,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/RegisterFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/RegisterFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="122" column="56" lean-forward="true" selection-start-line="122" selection-start-column="56" selection-end-line="122" selection-end-column="56" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/FirebaseChatMainApp.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/FirebaseChatMainApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/SharedPrefUtil.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/SharedPrefUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-551">
           <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/NetworkConnectionUtil.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/NetworkConnectionUtil.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-334">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/utils/ItemClickSupport.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/utils/ItemClickSupport.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="109">
           <caret line="77" column="19" lean-forward="false" selection-start-line="77" selection-start-column="15" selection-end-line="77" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/LoginActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="23" column="28" lean-forward="true" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
@@ -3347,56 +3506,56 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/RegisterActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/RegisterActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="21" column="53" lean-forward="true" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/ChatActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/ChatActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/events/PushNotificationEvent.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/events/PushNotificationEvent.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="18" column="32" lean-forward="false" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/registration/RegisterPresenter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/registration/RegisterPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
           <caret line="23" column="42" lean-forward="false" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/registration/RegisterInteractor.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/registration/RegisterInteractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="33" column="22" lean-forward="false" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/login/LoginInteractor.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/login/LoginInteractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="57" column="22" lean-forward="false" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/models/ChatMessage.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/models/ChatMessage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="43">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/SplashActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/SplashActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="25" column="57" lean-forward="false" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
@@ -3413,7 +3572,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/UserListingActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/UserListingActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
           <caret line="64" column="5" lean-forward="false" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
@@ -3423,7 +3582,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/LoginFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/LoginFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1110">
           <caret line="93" column="31" lean-forward="false" selection-start-line="93" selection-start-column="26" selection-end-line="93" selection-end-column="31" />
@@ -3431,7 +3590,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/activities/GroupActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/activities/GroupActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="53" column="0" lean-forward="false" selection-start-line="53" selection-start-column="0" selection-end-line="53" selection-end-column="0" />
@@ -3479,18 +3638,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatContract.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatContract.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="45" lean-forward="false" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -3507,17 +3658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="91">
           <caret line="14" column="60" lean-forward="false" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider editor-type-id="android-manifest">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="55" column="48" lean-forward="false" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -3557,7 +3697,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/ChatFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/ChatFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="172" column="4" lean-forward="false" selection-start-line="172" selection-start-column="0" selection-end-line="173" selection-end-column="0" />
@@ -3565,17 +3705,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatPresenter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="86">
           <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding>
-            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#1399#1400#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/chat/ChatInteractor.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/chat/ChatInteractor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="73">
           <caret line="167" column="0" lean-forward="false" selection-start-line="167" selection-start-column="0" selection-end-line="167" selection-end-column="0" />
@@ -3583,7 +3723,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/ui/fragments/UsersFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/fragments/UsersFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
           <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
@@ -3591,20 +3731,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersPresenter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersPresenter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1032#1033#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/groupchat/core/users/get/all/GetUsersInteractor.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/core/users/get/all/GetUsersInteractor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="52" column="0" lean-forward="false" selection-start-line="52" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+        <state relative-caret-position="141">
+          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/xyz/himanshu/singlechat/ui/adapters/UserListingRecyclerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="41">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/app-release.apk">
+      <provider selected="true" editor-type-id="apk-viewer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/build/generated/res/google-services/debug/values/values.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="36" lean-forward="false" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="55" column="48" lean-forward="false" selection-start-line="55" selection-start-column="48" selection-end-line="55" selection-end-column="48" />
           <folding />
         </state>
       </provider>
