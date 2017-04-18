@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "850201259570",
-    "firebase_url": "https://chat-ae1c3.firebaseio.com",
-    "project_id": "chat-ae1c3",
-    "storage_bucket": "chat-ae1c3.appspot.com"
+    "project_number": "751365905780",
+    "firebase_url": "https://groupchat-9d28a.firebaseio.com",
+    "project_id": "groupchat-9d28a",
+    "storage_bucket": "groupchat-9d28a.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:850201259570:android:74007a35c9cdcd25",
+        "mobilesdk_app_id": "1:751365905780:android:233f001570f3b727",
         "android_client_info": {
-          "package_name": "xyz.himanshu.singlechat"
+          "package_name": "xyz.himanshu.groupchat"
         }
       },
       "oauth_client": [
         {
-          "client_id": "850201259570-pjmc9slsk72o2b5av5qm0ouhle3kn210.apps.googleusercontent.com",
+          "client_id": "751365905780-pir9e5kv53i8t8279s196a4ba9854ka1.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBa9K8qjBybfWO1oMru91hgPpSGR8TUyq4"
+          "current_key": "AIzaSyCRDUqHBm7rx8yd0qY7xfMfIunWVtRxnXQ"
         }
       ],
       "services": {

@@ -6,8 +6,11 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".ui.activities.GroupActivity">
+
+    
     <LinearLayout
         android:id="@+id/layout1"
+        android:layout_below="@id/toolbar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -57,7 +60,6 @@
         android:layout_height="match_parent"
         android:layout_above="@id/layout1"
         android:layout_alignParentLeft="true"
-        android:layout_below="@+id/toolbar"
         android:paddingLeft="10dp"
         android:paddingRight="10dp"
         android:paddingTop="10dp"
